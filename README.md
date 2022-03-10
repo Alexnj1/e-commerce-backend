@@ -47,6 +47,14 @@
 
   ### Refer to the video below
   
+  [Instructions Part One](https://drive.google.com/file/d/1YuRhlMnNA3KsYfWt6dMC_13cuR4dmaNM/view)
+  [Instructions Part Two](https://drive.google.com/file/d/1Ynaee3PVUBCCfuDOicJR-bgHq1y5P-lL/view)
+  
+  ## Screenshots
+  ![image](https://user-images.githubusercontent.com/93218601/157751413-7d902307-623c-45c9-902b-eab8e8778531.png)
+  ![image](https://user-images.githubusercontent.com/93218601/157751523-41d8059d-370f-4238-abad-00841168e628.png)
+
+  
   ## Questions
 
 
